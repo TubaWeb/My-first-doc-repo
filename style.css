@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: rgb(224, 224, 224);
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 5px;
+}
+.logo-photo{
+    width: 50px;
+    padding-left: 40px;
+}
+.menu{
+    display: flex;
+    padding-right: 40px;
+
+}
+.item{
+    margin-right: 10px;
+    padding-right: 20px;
+    font-size: 10px;
+}
